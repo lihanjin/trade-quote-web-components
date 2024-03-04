@@ -1,3 +1,3 @@
-import Counter from './packages/Counter.svelte';
+import Quote from './packages/Quote.svelte'
 
-export { Counter };
+export { Quote }
